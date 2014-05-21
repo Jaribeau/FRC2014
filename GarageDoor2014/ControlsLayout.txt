@@ -1,0 +1,32 @@
+Button #, Function
+
+
+Driver:
+1. Launch (based on axis 3 selection) 			
+2. Intake ball (roller)
+3. Outtake ball (roller)
+4. *Manual Reset Launcher
+5. *Manual Launch Override (Hold with launch)
+6. Extend Intake
+7. Retract Intake
+8. Low Gear
+9. High Gear
+10. Retract Wings
+11. Extend Wings
+Axis 3: Shot Select
+	- Full up: Full power
+	- Middle: Truss
+	- Bottom: Safe
+
+Operator:
+1. 
+2. 
+3. 
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
